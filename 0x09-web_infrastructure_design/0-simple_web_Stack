@@ -1,0 +1,19 @@
+WHAT IS A SERVER?
+
+	This is a piece of computer hardware or software that provides functionality for other programs or devices (called clients), sharing data or resources among multiple clients, or performing computation for a client.
+
+WHAT IS THE ROLE OF A DOMAIN NAME?
+
+	A domain name serve as an identity for internet resources, to locate an information on the web server.
+
+WHAT TPE OF RECORD WWW IS IN WWW.FOOBAR.COM?
+	Canonical Name (CNAME).
+
+WHAT IS THE ROLE OF AN APPLICATION SERVER?
+	An application server acts as a middleware connecting the database to the webserver and code base.
+
+WHAT IS THE SERVER USING TO COMMUNICATE WITH THE COMPUTER OF THE USER REQUESTING THE WEBSITE?
+	The web server.
+
+SINGLE POINT OF FAILURE (SPOF)?
+	The web server is the single point of failure. Once it fails (the webserver), the entire process stops.
