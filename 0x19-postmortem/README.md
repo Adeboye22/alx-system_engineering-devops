@@ -1,6 +1,6 @@
 # POSTMORTEM
-
-https://media-exp1.licdn.com/dms/image/D4D12AQHjYLdcYzayQg/article-cover_image-shrink_423_752/0/1667765624397?e=1673481600&v=beta&t=_ivukE3ROdS2y5RNeO8RsQpNc_JsjCe6JvUzooy5jyI
+[]
+(https://media-exp1.licdn.com/dms/image/D4D12AQHjYLdcYzayQg/article-cover_image-shrink_423_752/0/1667765624397?e=1673481600&v=beta&t=_ivukE3ROdS2y5RNeO8RsQpNc_JsjCe6JvUzooy5jyI)
 
 Compiled by the Basdot Backend Team.
 This report documents the incident for the Basdot API infrastructure outage that occurred in October, 2022. We acknowledge this service outage has impacted our dear users and developers, and we apologize to everyone who was affected.
